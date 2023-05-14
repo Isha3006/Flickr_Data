@@ -1,0 +1,32 @@
+.searchHeader{
+    height: 25%;
+    background-color: black;
+}
+
+.heading{
+    display: flex;
+    justify-content: center;
+    color: white;
+    padding: 30px 0;
+}
+
+.scrollableContainer {
+    height: 95vh;
+    overflow-y: auto;
+}
+
+.inputField{
+    display: flex;
+    justify-content: center;
+}
+
+.column {
+    float: left;
+    width: 40%;
+    padding: 5px;
+    margin-left: 30px;
+  }
+  img {
+    width: 100%;
+  }
+
